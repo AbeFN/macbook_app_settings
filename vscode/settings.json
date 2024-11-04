@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "terminal.integrated.fontSize": 13,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontFamily": "monospace"
+}
